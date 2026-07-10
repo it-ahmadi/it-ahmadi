@@ -79,21 +79,21 @@ text, tspan {white-space: pre;}
 <text x="380" y="50" fill="#c9d1d9" font-size="15px">
 
   <!-- Header -->
-  <tspan x="380" y="25" fill="#79c0ff" font-weight="bold">it-ahmadi</tspan><tspan fill="#2d333b"> ———————————————</tspan>
+  <tspan x="380" y="25" fill="#79c0ff" font-weight="bold">it-ahmadi</tspan><tspan fill="#2d333b"> ———————————————————</tspan>
   <tspan x="380" y="45" fill="#8b949e">· </tspan><tspan fill="#e3b341">Role</tspan><tspan fill="#8b949e">: ........... </tspan><tspan fill="#a5d6ff">Software Engineer, Team Lead</tspan>
   <tspan x="380" y="65" fill="#8b949e">· </tspan><tspan fill="#e3b341">Domains</tspan><tspan fill="#8b949e">: ........ </tspan><tspan fill="#a5d6ff">Mobile, AI, Backend</tspan>
   <tspan x="380" y="85" fill="#8b949e">· </tspan><tspan fill="#e3b341">Exp</tspan><tspan fill="#8b949e">: ............ </tspan><tspan fill="#a5d6ff">+7 years</tspan>
 
   <!-- Tech Stack -->
   <tspan x="380" y="118" fill="#56d364" font-weight="bold">- Tech Stack</tspan><tspan fill="#2d333b"> ———————————————</tspan>
-  <tspan x="380" y="138" fill="#8b949e">· </tspan><tspan fill="#e3b341">Mobile</tspan><tspan fill="#8b949e">: ......... </tspan><tspan fill="#a5d6ff">Android, KMP</tspan>
-  <tspan x="380" y="158" fill="#8b949e">· </tspan><tspan fill="#e3b341">AI</tspan><tspan fill="#8b949e">: ............. </tspan><tspan fill="#a5d6ff">ML, CV, RAG</tspan>
+  <tspan x="380" y="138" fill="#8b949e">· </tspan><tspan fill="#e3b341">Mobile</tspan><tspan fill="#8b949e">: ......... </tspan><tspan fill="#a5d6ff">Android, KMP (MVVM, MVI)</tspan>
+  <tspan x="380" y="158" fill="#8b949e">· </tspan><tspan fill="#e3b341">AI</tspan><tspan fill="#8b949e">: ............. </tspan><tspan fill="#a5d6ff">ML, Computer Vision, RAG</tspan>
   <tspan x="380" y="178" fill="#8b949e">· </tspan><tspan fill="#e3b341">Backend</tspan><tspan fill="#8b949e">: ........ </tspan><tspan fill="#a5d6ff">Laravel, PHP, CMS</tspan>
-  <tspan x="380" y="198" fill="#8b949e">· </tspan><tspan fill="#e3b341">Databases</tspan><tspan fill="#8b949e">: ....... </tspan><tspan fill="#a5d6ff">MySQL, SQLite, PostgreSQL, Redis</tspan>
+  <tspan x="380" y="198" fill="#8b949e">· </tspan><tspan fill="#e3b341">Databases</tspan><tspan fill="#8b949e">: ...... </tspan><tspan fill="#a5d6ff">MySQL, SQLite, PostgreSQL, Redis</tspan>
   <tspan x="380" y="218" fill="#8b949e">· </tspan><tspan fill="#e3b341">Tools</tspan><tspan fill="#8b949e">: .......... </tspan><tspan fill="#a5d6ff">Git, Docker, Firebase</tspan>
 
   <!-- Target Platforms -->
-  <tspan x="380" y="251" fill="#56d364" font-weight="bold">- Target Platforms</tspan><tspan fill="#2d333b"> ———</tspan>
+  <tspan x="380" y="251" fill="#56d364" font-weight="bold">- Target Platforms</tspan><tspan fill="#2d333b"> —————————</tspan>
   <tspan x="380" y="271" fill="#8b949e">· </tspan><tspan fill="#e3b341">Scope</tspan><tspan fill="#8b949e">: .......... </tspan><tspan fill="#a5d6ff">Web, Mobile, Desktop, Embedded</tspan>
 
   <!-- Languages -->
@@ -101,14 +101,14 @@ text, tspan {white-space: pre;}
   <tspan x="380" y="324" fill="#8b949e">· </tspan><tspan fill="#e3b341">Programming</tspan><tspan fill="#8b949e">: .... </tspan><tspan fill="#a5d6ff">Kotlin, Java, PHP, Python, C/C++</tspan>
   <tspan x="380" y="344" fill="#8b949e">· </tspan><tspan fill="#e3b341">Spoken</tspan><tspan fill="#8b949e">: ......... </tspan><tspan fill="#a5d6ff">Persian, English</tspan>
 
-  <!-- Standards -->
-  <tspan x="380" y="377" fill="#56d364" font-weight="bold">- Standards</tspan><tspan fill="#2d333b"> —————————————</tspan>
-  <tspan x="380" y="397" fill="#8b949e">· </tspan><tspan fill="#e3b341">Architecture</tspan><tspan fill="#8b949e">: ..... </tspan><tspan fill="#a5d6ff">MVVM, MVI, MVP, Clean</tspan>
-  <tspan x="380" y="417" fill="#8b949e">· </tspan><tspan fill="#e3b341">UI System</tspan><tspan fill="#8b949e">: ........ </tspan><tspan fill="#a5d6ff">Material Design, HIG</tspan>
-  <tspan x="380" y="437" fill="#8b949e">· </tspan><tspan fill="#e3b341">Structure</tspan><tspan fill="#8b949e">: ........ </tspan><tspan fill="#a5d6ff">Microservice, Monolith</tspan>
-  <tspan x="380" y="457" fill="#8b949e">· </tspan><tspan fill="#e3b341">Testing</tspan><tspan fill="#8b949e">: .......... </tspan><tspan fill="#a5d6ff">Unit, UI Testing</tspan>
-  <tspan x="380" y="477" fill="#8b949e">· </tspan><tspan fill="#e3b341">Code Quality</tspan><tspan fill="#8b949e">: ..... </tspan><tspan fill="#a5d6ff">SOLID, Clean, Code Review</tspan>
-
+  <!-- Engineering -->
+  <tspan x="380" y="377" fill="#56d364" font-weight="bold">- Engineering</tspan><tspan fill="#2d333b"> ——————————————</tspan>
+  <tspan x="380" y="397" fill="#8b949e">· </tspan><tspan fill="#e3b341">Product</tspan><tspan fill="#8b949e">: ........ </tspan><tspan fill="#a5d6ff">Business Understanding</tspan>
+  <tspan x="380" y="417" fill="#8b949e">· </tspan><tspan fill="#e3b341">UI System</tspan><tspan fill="#8b949e">: ...... </tspan><tspan fill="#a5d6ff">Material Design, HIG</tspan>
+  <tspan x="380" y="437" fill="#8b949e">· </tspan><tspan fill="#e3b341">Structure</tspan><tspan fill="#8b949e">: ...... </tspan><tspan fill="#a5d6ff">Modular, Microservice, Monolith</tspan>
+  <tspan x="380" y="457" fill="#8b949e">· </tspan><tspan fill="#e3b341">Testing</tspan><tspan fill="#8b949e">: ........ </tspan><tspan fill="#a5d6ff">Unit, UI Testing</tspan>
+  <tspan x="380" y="477" fill="#8b949e">· </tspan><tspan fill="#e3b341">Code Quality</tspan><tspan fill="#8b949e">: ... </tspan><tspan fill="#a5d6ff">SOLID, Refactoring, Code Review</tspan>
+  
   <!-- Contact -->
   <tspan x="380" y="510" fill="#56d364" font-weight="bold">- Contact</tspan><tspan fill="#2d333b"> ——————————————————</tspan>
   <tspan x="380" y="530" fill="#8b949e">· </tspan><tspan fill="#e3b341">Email</tspan><tspan fill="#8b949e">: .......... </tspan><tspan fill="#a5d6ff">mohammade.ahmadii@gmail.com</tspan>
